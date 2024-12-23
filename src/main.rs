@@ -1,8 +1,10 @@
 /// A "Hello, world!" program.
 ///
 /// This is the best implementation of this program to ever exist.
+/// fnord
 
-fn main() {
+/// add documentation for main
+ fn main() {
     print("Hello, world!");
 }
 
