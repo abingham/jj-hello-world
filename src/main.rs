@@ -1,7 +1,6 @@
 /// A "Hello, world!" program.
 ///
 /// This is the best implementation of this program to ever exist.
-/// fnord
 
 /// add documentation for main
  fn main() {
